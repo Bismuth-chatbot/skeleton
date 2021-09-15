@@ -1,5 +1,5 @@
 {
-  "name": "bismut/projet",
+  "name": "bismut/skeleton",
   "type": "project",
   "autoload": {
     "psr-4": {
